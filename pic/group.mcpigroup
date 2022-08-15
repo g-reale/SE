@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\Extra Boards\Keypad 4x4\Keypad4x4.mcppi
+Project1=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\MyProject.mcppi
+Project2=MyProject.mcppi
+[ActiveProject]
+Index=2
